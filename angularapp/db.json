@@ -1,0 +1,16 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "student_name": "mathan",
+      "Department": "ECE"
+    }
+  ],
+  "users": [
+    {
+      "id": 101,
+      "user_name":"Kumar",
+      "User_Type": "Admin"
+    }
+  ]
+}
